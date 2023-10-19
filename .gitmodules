@@ -1,0 +1,6 @@
+[submodule "Arduino"]
+	path = Arduino
+	url = https://github.com/nhthai173/vl53l0x-multiple-arduino
+[submodule "STM32F103C8T6"]
+	path = STM32F103C8T6
+	url = https://github.com/nhthai173/vl53l0x-multiple-stm32f103
